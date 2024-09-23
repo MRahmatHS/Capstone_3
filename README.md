@@ -82,8 +82,8 @@ Secara keseluruhan, fitur-fitur ini memberikan wawasan penting bagi bisnis untuk
 - Kepuasan pelanggan dan jumlah keluhan memiliki dampak signifikan terhadap keputusan pelanggan untuk churn.
 
 > **Evaluasi Model**
-print('Classification Report Best_Model: \n')
-print(classification_report(y_test, y_pred_after))
+![image](https://github.com/user-attachments/assets/c82cec66-eb2f-4082-909d-10adad130d27)
+
  **Prediksi Churn untuk Perusahaan E-commerce Menggunakan Machine Learning**
 
  **1. Tujuan Project**
@@ -158,10 +158,7 @@ Dengan menggunakan ML, perusahaan akan menghadapi kerugian sebesar **- 11.750 US
 - **Tanpa Machine Learning:** Perusahaan akan mengalami kerugian hingga **- 107.450 USD** per sekali Campaign.
 - **Dengan Machine Learning:** perusahaan akan menghadapi kerugian sebesar **- 11.750 USD** per sekali Campaign.
 
-![image.png](attachment:image.png)
-
-
-![image-2.png](attachment:image-2.png)
+![image](https://github.com/user-attachments/assets/06856114-5734-413c-8b86-332174fe283a)
 
 Dengan demikian, menggunakan **Machine Learning** memberikan dampak finansial yang signifikan terhadap bisnis, menghemat biaya promosi sebesar 89.04% yang tidak tepat sasaran, dan meningkatkan pendapatan dengan mempertahankan pelanggan yang lebih berisiko churn.
 
