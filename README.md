@@ -1,2 +1,7 @@
-# Capstone_3
-Capstone3_E-COMMERCE_CHURN_RAHMAT
+# **E-COMMERCE CUSTOMER CHURN**
+
+#### By : **M.RAHMAT HIDAYAT SYACHRUDIN**
+---
+---
+
+![image.png](attachment:image.png)
